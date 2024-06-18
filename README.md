@@ -1,2 +1,2 @@
 # Emotion-based-Music-Recommendation-System
-EMR takes the input of the user in the form of audio and video and provides the appropriate music based on the mood of the user
+A system that tailors music recommendations to the appropriate mood. Using a combination of speech analysis and facial recognition to get a personalized list you can control, letting you pick genres, or mood-based playlists.
